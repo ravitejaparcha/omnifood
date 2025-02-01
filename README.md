@@ -6,3 +6,6 @@ Omnifood is a website for a fictional food delivery app that utilizes AI to sugg
 - HTML
 - CSS
 - JavaScript (only for responsiveness)
+
+## Live preview: 
+ - https://omnifood-rtp.netlify.app/
